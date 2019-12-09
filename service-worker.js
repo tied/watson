@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/watson/precache-manifest.53fa5d22b4e3115bb1cd2e637506d85a.js"
+  "https://drauf.github.io/watson/precache-manifest.f70df62ce5dbcfc2c082e1063d673631.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/watson/index.html", {
+workbox.routing.registerNavigationRoute("https://drauf.github.io/watson/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
