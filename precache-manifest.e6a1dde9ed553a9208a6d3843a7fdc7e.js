@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "825e83a3ca3f068a4a8d",
-    "url": "https://drauf.github.io/watson/static/css/main.8739c157.chunk.css"
+    "revision": "7627d5d5d4b8760fb5e3",
+    "url": "https://drauf.github.io/watson/static/css/main.72111d7d.chunk.css"
   },
   {
-    "revision": "825e83a3ca3f068a4a8d",
-    "url": "https://drauf.github.io/watson/static/js/main.048d28d5.chunk.js"
+    "revision": "7627d5d5d4b8760fb5e3",
+    "url": "https://drauf.github.io/watson/static/js/main.108563c2.chunk.js"
   },
   {
     "revision": "0f25c9b0b645424a0317",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "https://drauf.github.io/watson/static/media/chevron.ecb8f00b.svg"
   },
   {
-    "revision": "0ce39bceca4d48cba8e8c3c89e9ef082",
+    "revision": "10e0ea1611e3244614dee2b9ff034f44",
     "url": "https://drauf.github.io/watson/index.html"
   }
 ];
