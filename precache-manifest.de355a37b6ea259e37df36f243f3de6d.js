@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "d21470bd84e7940d68bd",
-    "url": "/watson/static/css/main.cdc25b98.chunk.css"
+    "revision": "416676f83c06196d8394",
+    "url": "/watson/static/css/main.de468188.chunk.css"
   },
   {
-    "revision": "d21470bd84e7940d68bd",
+    "revision": "416676f83c06196d8394",
     "url": "/watson/static/js/main.e7420839.chunk.js"
   },
   {
@@ -16,11 +16,7 @@ self.__precacheManifest = [
     "url": "/watson/static/js/2.9d5e4b4a.chunk.js"
   },
   {
-    "revision": "056f441567c7528ed7f42e8fbe48fafb",
-    "url": "/watson/static/media/chevron.056f4415.svg"
-  },
-  {
-    "revision": "8e911c24dc5a3d6f7ed17c798d808af8",
+    "revision": "9fee5abdd624ffbb4e5703f83e671e67",
     "url": "/watson/index.html"
   }
 ];
