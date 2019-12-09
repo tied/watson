@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/watson/static/js/2.9d5e4b4a.chunk.js"
   },
   {
-    "revision": "9fee5abdd624ffbb4e5703f83e671e67",
+    "revision": "fbd6db89c58a843b222e7d68db440b23",
     "url": "/watson/index.html"
   }
 ];
